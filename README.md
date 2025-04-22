@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hey there 👋
 
-Here are some ideas to get you started:
+Welcome! Here's a quick snapshot of what I'm up to:
 
-- 🔭 I’m currently working on NuxtJS, React, Laravel
-- 💬 Ask me about Laravel, Javascript, Frontend Development
-- 📫 How to reach me: https://twitter.com/furqanfreed
-- 🔗 Blog: https://furqanfreed.com/
+- 🔭 **Current Stack:** Actively working with **Node.js**, **Laravel**, **Nuxt.js**, **React**, **Angular**, and **Vue.js** – yes, I like playing across the frontend and backend!
+- 🛠️ **Into DevOps? So am I.** Over the past couple of years, I’ve been diving deep into **Docker**, **CI/CD pipelines**, **Jenkins**, and setting up robust architectures with **clusters**, **load balancers**, and more.
+- 💬 **Let’s connect:** Reach out on [Twitter](https://twitter.com/furqanfreed)
+- 🔗 **Read my thoughts:** [furqanfreed.com](https://furqanfreed.com/)
